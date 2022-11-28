@@ -1,0 +1,1637 @@
+,0
+fracture,191
+pain,169
+tumor,118
+hernia,110
+infection,91
+hypertension,90
+stenosis,90
+bleeding,87
+cataract,85
+otitis,84
+hematoma,74
+prostate,71
+anemia,66
+radiculopathy,64
+diabetes,61
+abscess,60
+swelling,58
+nausea,55
+weight loss,54
+carcinoma,53
+throat,53
+hypertrophy,49
+hematuria,47
+fistula,46
+carpal tunnel syndrome,45
+adenocarcinoma,44
+pneumonia,44
+spondylosis,43
+coronary artery disease,42
+atrial fibrillation,42
+weakness,41
+cough,40
+inguinal hernia,40
+headaches,38
+vomiting,38
+arthritis,38
+hemorrhage,38
+hemorrhoids,37
+fever,34
+numbness,34
+lymphadenopathy,34
+chest pain,34
+palate,34
+diarrhea,33
+chordee,33
+pleural effusion,33
+polyps,33
+inflammation,33
+cholelithiasis,31
+polyp,31
+shortness of breath,30
+cholecystitis,30
+appendicitis,29
+mesothelioma,29
+tenderness,29
+seizure,28
+headache,27
+erythema,27
+respiratory failure,27
+abdominal pain,27
+effusion,27
+aphasia,26
+caries,26
+aneurysm,26
+cancer,26
+fractures,25
+tenosynovitis,25
+breast cancer,25
+hydrocephalus,25
+squamous cell carcinoma,24
+dysphagia,24
+osteoarthritis,23
+constipation,23
+fibrillation,23
+diverticulosis,23
+spinal stenosis,23
+tachycardia,23
+ischemia,22
+esophagitis,22
+trauma,22
+dizziness,22
+perineum,22
+pneumothorax,21
+cellulitis,21
+incontinence,21
+hypospadias,21
+endometriosis,20
+adenopathy,20
+abdominal hysterectomy,20
+memory loss,20
+edema,20
+nerve block,20
+intrauterine pregnancy,20
+glaucoma,20
+seizures,20
+end-stage renal disease,19
+prostate cancer,19
+congestive heart failure,19
+colon polyps,19
+stroke,19
+sinusitis,19
+depression,18
+herniation,18
+hyperlipidemia,18
+obesity,18
+aortic stenosis,18
+neuropathy,18
+colon cancer,18
+pelvic pain,18
+perforation,17
+congestion,17
+atelectasis,17
+angina,17
+nasal obstruction,17
+hearing loss,17
+bladder tumor,17
+tremor,17
+sepsis,17
+bipolar,16
+cerebral palsy,16
+psychiatric,16
+tonsillectomy,16
+atherosclerotic,16
+loss of vision,16
+morbid obesity,16
+lightheadedness,16
+diabetic,16
+fevers,16
+hydronephrosis,16
+tonsillitis,16
+squamous,15
+toenail,15
+dyspnea,15
+asthma,15
+acute appendicitis,15
+tinnitus,15
+sleep apnea,15
+infarction,15
+osteomyelitis,15
+pelvic adhesions,14
+wheezing,14
+copd,14
+obstructive sleep apnea,14
+chondromalacia,14
+diplopia,14
+photophobia,14
+lumbar,14
+renal failure,14
+chronic obstructive pulmonary disease,14
+vertigo,14
+gastroesophageal reflux disease,13
+chronic renal failure,13
+diabetes mellitus,13
+lung cancer,13
+empyema,13
+inguinal hernia repair,13
+apnea,13
+ptosis,13
+neck pain,13
+fibroid,13
+iron deficiency,12
+knee arthroplasty,12
+meconium,12
+necrotic,12
+hepatitis,12
+cardiomyopathy,12
+fibrosis,12
+fatigue,12
+pericardial effusion,12
+adenotonsillitis,12
+fibroids,11
+melanoma,11
+renal stone,11
+respiratory distress,11
+respiratory infection,11
+bronchitis,11
+ureteropelvic junction obstruction,11
+effusions,11
+chills,11
+obstruction,11
+purulent,10
+osteoporosis,10
+thrombus,10
+epiglottis,10
+erectile dysfunction,10
+lupus,10
+tubal occlusion,10
+phimosis,10
+tooth,10
+arrhythmia,10
+allergic rhinitis,10
+cervical stenosis,10
+neuroma,10
+hyperventilation,10
+migraine,10
+hypotension,10
+atrial septal defect,10
+rheumatoid arthritis,10
+gastritis,10
+nystagmus,10
+calcification,10
+adenoid hypertrophy,10
+toothache,10
+embolism,10
+tracheal stenosis,9
+ascites,9
+acute cholecystitis,9
+choledocholithiasis,9
+astrocytoma,9
+allergies,9
+hypertrophic,9
+joints,9
+pulmonary embolism,9
+abnormal uterine bleeding,9
+renal insufficiency,9
+synovitis,9
+infarct,9
+palpitations,9
+tinea pedis,9
+canal stenosis,9
+dementia,9
+lipodystrophy,9
+anxiety,9
+heart disease,9
+pains,9
+basal cell carcinoma,9
+goiter,9
+low back syndrome,9
+myocardial infarction,9
+pancreatitis,9
+arteriovenous malformation,8
+epilepsy,8
+abdominal aortic aneurysm,8
+hemiparesis,8
+dysplasia,8
+septic,8
+lower extremity weakness,8
+insufficiency,8
+reflux esophagitis,8
+dysmenorrhea,8
+bladder cancer,8
+gastroenteritis,8
+prostatic hyperplasia,8
+gestational diabetes,8
+blurred vision,8
+mitral regurgitation,8
+diabetic foot,8
+intraocular lens,8
+retinal detachment,8
+malignancy,8
+traumatic,8
+allergic reaction,8
+fasciitis,8
+fascitis,8
+rash,8
+bradycardia,8
+chronic cholecystitis,8
+patellofemoral,8
+thrombosis,8
+hammertoe deformity,8
+biliary colic,8
+arteriovenous fistula,8
+substance abuse,8
+prostatic hypertrophy,8
+menometrorrhagia,8
+dislocation,8
+pneumonitis,8
+urinary tract infection,8
+hammertoe,8
+emphysema,8
+ischemic cardiomyopathy,8
+strokes,8
+thyroid goiter,8
+temporal arteritis,8
+hoarseness,7
+renal disease,7
+hypoxemia,7
+serous otitis,7
+ovarian,7
+metabolic syndrome,7
+orthopnea,7
+onychomycosis,7
+thrombocytopenia,7
+arthrosis,7
+chest pains,7
+intracranial hemorrhage,7
+hematochezia,7
+syncope,7
+aortic aneurysm,7
+hypermenorrhea,7
+hemiplegia,7
+hyperthyroidism,7
+heart failure,7
+acute renal failure,7
+tendon rupture,7
+hypoxia,7
+epicondylitis,7
+allergy,7
+coagulopathy,7
+airway obstruction,7
+renal cell carcinoma,7
+hallux,7
+umbilical hernia repair,7
+uterine cancer,7
+infections,7
+irritable,6
+"pelvis, stone",6
+redness,6
+meningioma,6
+intravascular coagulation,6
+carotid stenosis,6
+lower extremity numbness,6
+degenerative joint disease,6
+sprain,6
+endocarditis,6
+loss of consciousness,6
+hemorrhages,6
+colic,6
+chronic renal insufficiency,6
+interstitial cystitis,6
+pharyngitis,6
+inflammatory bowel disease,6
+nephrolithiasis,6
+myelitis,6
+glioblastoma multiforme,6
+respiratory illness,6
+hydrocele,6
+hemothorax,6
+carious teeth,6
+cervical spondylosis,6
+blindness,6
+tearing,6
+arteritis,6
+fullness,6
+myelopathy,6
+planovalgus,6
+blood loss,6
+arteriosclerosis,6
+peripheral neuropathy,6
+ulnar neuropathy,6
+stomatitis,6
+hemorrhagic,6
+penile block,6
+keratosis,6
+spondylolisthesis,6
+confusion,6
+ataxia,6
+degenerative arthritis,6
+shoulder pain,6
+rashes,6
+diabetic neuropathy,6
+onychocryptosis,6
+subluxation,6
+dyspepsia,6
+ulcer,6
+lumbar spinal stenosis,6
+ventricular tachycardia,6
+agitation,6
+tricuspid regurgitation,6
+chronic pain syndrome,6
+neoplasm,6
+parkinson,6
+seizure disorder,6
+ideation,6
+snoring,6
+nasal congestion,6
+cubital tunnel syndrome,6
+allergic,6
+dermatitis,6
+gallstones,6
+bundle branch block,6
+intraocular lens implant,6
+emesis,6
+lumbar spondylosis,6
+intermenstrual,6
+leukocytosis,6
+pelvic inflammatory disease,6
+cholestasis,6
+contusion,6
+amnesia,6
+hypothyroidism,6
+hypokalemia,6
+encopresis,6
+malignant mesothelioma,5
+acute respiratory failure,5
+ulceration,5
+intraventricular hemorrhage,5
+opioid dependence,5
+ventricular septal defect,5
+adrenal insufficiency,5
+diverticula,5
+congenital heart disease,5
+paraplegia,5
+nasal deformity,5
+hepatosplenomegaly,5
+endometrial cancer,5
+depressive disorder,5
+subglottic stenosis,5
+cirrhosis,5
+sarcoma,5
+bladder carcinoma,5
+heartburn,5
+spondylolysis,5
+facet joints,5
+itchy,5
+hallux abductovalgus,5
+schizophrenia,5
+leukemia,5
+xerostomia,5
+sweats,5
+atherosclerotic cardiovascular disease,5
+urinary incontinence,5
+craniopharyngioma,5
+chronic lung disease,5
+rheumatoid,5
+hypoglycemia,5
+impingement,5
+umbilical hernia,5
+polymyositis,5
+bipolar disorder,5
+miscarriage,4
+inhalant allergies,4
+visual loss,4
+restless legs syndrome,4
+weight gain,4
+tendonitis,4
+polydipsia,4
+hiatal hernia,4
+dysuria,4
+dupuytren disease,4
+dehydration,4
+periappendicitis,4
+bacteremia,4
+hypofunction,4
+gingivitis,4
+hemoperitoneum,4
+turbt,4
+hyperplasia,4
+spermatocele,4
+basilar atelectasis,4
+cyanosis,4
+hydroceles,4
+metopic synostosis,4
+anger,4
+acromiale,4
+bowel obstruction,4
+respiratory insufficiency,4
+enterogastritis,4
+tearfulness,4
+gastrointestinal bleed,4
+abortion,4
+rhinitis,4
+"esophageal, esophageal stricture",4
+tracheobronchitis,4
+uterine fibroids,4
+conjunctivitis,4
+psoriatic arthritis,4
+hemoptysis,4
+normocephalic,4
+hyperactivity,4
+psoriasis,4
+prematurity,4
+drowsiness,4
+small bowel obstruction,4
+folliculitis,4
+breast augmentation,4
+acne,4
+ankle sprain,4
+esophageal cancer,4
+palsy,4
+protein-calorie malnutrition,4
+oligoarticular,4
+toxicity,4
+peptic,4
+bronchospastic angina,4
+gastroesophageal reflux,4
+chest pulmonary embolism,4
+vitreous hemorrhage,4
+adenocarcinoma of the prostate,4
+condyloma,4
+craniosynostosis,4
+eyelid dermatochalasis,4
+urinary obstruction,4
+orthostatic,4
+coronary disease,4
+myeloproliferative disorder,4
+lung carcinoma,4
+bronchopneumonia,4
+polycythemia,4
+prostate hypertrophy,4
+chlamydia,4
+alcohol abuse,4
+dermatochalasis,4
+testis,4
+atrial tachycardia,4
+adenoiditis,4
+mucopurulent,4
+plagiocephaly,4
+cramping,4
+glioma,4
+infarctions,4
+itchy rash,4
+subluxations,4
+lacunar infarction,4
+aortoiliac occlusive disease,4
+claudication,4
+sore throat,4
+pruritus,4
+urticaria,4
+mass lesion,4
+thalamic strokes,4
+leukoencephalopathy,4
+vesicoureteral reflux,4
+bite,4
+infiltrating adenocarcinoma,4
+joint arthrosis,4
+visual field loss,4
+vault prolapse,4
+"erectile, dysfunction",4
+colitis,4
+liver disease,4
+artery disease,4
+adenomatous,4
+sphincter deficiency,4
+atherosclerosis,4
+hypercholesterolemia,4
+"obstructive, pulmonary, egd, melena",4
+obstructive pulmonary disease,4
+ulcerative,4
+neutropenic,4
+pituitary adenoma,4
+calculus,4
+myasthenia gravis,4
+symphysis fracture,4
+subarachnoid hemorrhage,4
+gangrenous,4
+chest wall tumor,4
+venous thrombosis,4
+retinopathy,4
+carcinomas,4
+priapism,4
+apophyseal joint arthrosis,4
+"artery, external carotid artery",4
+disc disease,4
+atrial flutter,4
+pneumatosis,4
+orthostatic hypotension,4
+barrett,4
+macrosomia,4
+acalculous,4
+kyphosis,4
+"hearing, auditory canals",4
+traumatic lesions,4
+illness,4
+preterm labor,4
+"tympanic, mouth",4
+compartment syndrome,4
+nongranulomatous,4
+valvular heart disease,4
+lower extremity cellulitis,4
+olecranon bursitis,4
+adenoma,4
+vulvar melanoma,4
+acalculous cholecystitis,4
+pes anserinus bursitis,4
+neoplasia,4
+hyperkalemia,4
+turbinate hypertrophy,4
+presyncope,4
+necrosis,4
+varicose,4
+diabetic retinopathy,4
+melena,4
+degenerative disc disease,4
+calcaneus fracture,4
+mammary hypertrophy,4
+impingement syndrome,4
+connective tissue disorder,4
+endarterectomy,4
+macromastia,4
+parathyroid adenoma,4
+otosclerosis,4
+epistaxis,4
+papillary carcinoma,4
+encephalopathy,4
+corneal edema,4
+pituitary tumor,4
+head injury,4
+renal lesions,4
+degenerative disk disease,4
+nonunion,4
+blood loss anemia,4
+decreased vision,4
+gallstone,4
+paresthesias,4
+rolandic epilepsy,4
+migraine headaches,4
+papilledema,4
+diaphoresis,4
+vulva,4
+sacroiliac joint pain,4
+tendinosis,4
+astigmatism,4
+corneal laceration,4
+scoliosis,4
+lens,4
+vaginal hysterectomy,4
+clumsiness,4
+obstructive adenotonsillar hypertrophy,4
+steven,3
+fibrocystic disease,3
+"rectocele, uterine fibroid",3
+hodgkin's disease,3
+lumbosacral radiculopathies,3
+breast mass,3
+stress urinary incontinence,3
+pyelonephritis,3
+fibroadenoma,3
+cystic lesion,3
+"loss of consciousness, motor vehicle accident, thoracic paraspinal",3
+hydropneumothorax,3
+degenerative spondylolisthesis,3
+conductive hearing loss,3
+tendinitis,3
+barometric trauma,3
+fibrocystic,3
+chiari,3
+esophageal rupture,3
+"intravascular, coagulation",3
+muscle spasms,3
+"postoperative, cheek, submental, dissection, neck,",3
+kyphotic deformity,3
+foraminal stenosis,3
+lower extremity muscle spasm,3
+"infected, stone",3
+esophageal perforation,3
+streptococcal pneumonia,3
+intracranial disease,3
+precancerous polyps,3
+hypoplastic left heart syndrome,3
+adipose,3
+facet arthrosis,3
+"cancer of the nasopharynx, status post radiation",3
+anaplastic astrocytoma,3
+injuries,3
+"chest, stage 1 norwood operation,",3
+osteolytic,3
+hallux interphalangeus,3
+painful bunion,3
+flexor,3
+lumbar osteomyelitis,3
+dermatochalasia,3
+painful hammertoe,3
+papillary cancer,3
+medial branch nerves,3
+restless leg syndrome,3
+"cutaneous, cutaneous nerves, medial malleolus",3
+depressions,3
+cauda equina syndrome,3
+death,3
+amyotrophy,3
+alzheimer,3
+polyarteritis nodosa,3
+obesity hypoventilation syndrome,3
+obesity hypoventilation,3
+mononeuritis,3
+hypoventilation,3
+"pelvis, kidney stones",3
+guillain-barre syndrome,3
+leg pain,3
+glioblastoma,3
+atrophic mandibular fracture,3
+frontal glioblastoma,3
+spastic quadriparesis,3
+tinea purpura,3
+"neurological, vomiting, mellitus type, blood sugars, blood, diabetes",3
+"nerve, suprascapular neuropathy",3
+anomalous pulmonary venous,3
+fishbone,3
+breast adenocarcinoma,3
+white syndrome,3
+wolff parkinson white syndrome,3
+aortic valve,3
+regional pain syndrome,3
+arthralgias,3
+hallucinations,3
+coronary infarct,3
+pedal edema,3
+pelvic tumor,3
+gastroesophageal reflux disorder,3
+declaudication,3
+spondylotic myelopathy,3
+osteophyte,3
+herniations,3
+cervical pain,3
+achilles tendon rupture,3
+sore,3
+"appetite, bowel, weakness",3
+left inguinal hernia,3
+itching throat,3
+thyroid cancer,3
+uterine papillary serous carcinoma,3
+"abdominal, uterine, papillary, carcinoma",3
+osteopenia,3
+cognitive linguistic deficit,3
+mandibular fracture,3
+"painful swallowing, breath",3
+"gastrointestinal, genitourinary, breasts, lymphatics, musculoskeletal, extremities, skin, neurologic, psychiatric",3
+chronic disease,3
+aches,3
+nonischemic cardiomyopathy,3
+"gastrointestinal, head, nose, respiratory, review of systems, denies fever",3
+attention deficit hyperactivity disorder,3
+demyelinating disease,3
+supraglottic edema,3
+sensory loss,3
+hemibody,3
+"tingling, weakness",3
+hemibody numbness,3
+rigidity,3
+diverticulitis,3
+ductal hyperplasia,3
+"muscle, syndrome",3
+occipital arteriovenous malformation,3
+branch block,3
+hemangioma,3
+eustachian congestion,3
+spina bifida,3
+cyanotic,3
+supraventricular tachycardia,3
+"subglottic, stenosis",3
+obstructions,3
+ureteral obstruction,3
+cognitive impairment,3
+"traumatic wrist injury, ulnar styloid nonunion",3
+rhinorrhea,3
+hypermobility,3
+"sinus, auditory canal, bone, brainstem, nerve, postauricular, tumor",3
+lumbar spondylolysis,3
+lumbosacral radiculopathy,3
+kawasaki disease,3
+ramus block,3
+lateral branch block,3
+"colon, cancer",3
+nervousness,3
+muscle tremor,3
+tunnel vision,3
+positional vertigo,3
+flame burns,3
+cord syndrome,3
+acute quadriplegia,3
+quadriplegia,3
+ingrown toenail,3
+psychotic,3
+cardiomegaly,3
+depressive,3
+psychotic condition,3
+delusions,3
+"ingrown, lesions",3
+hallucination,3
+vestibular dysfunction,3
+malformation,3
+vestibular migraine,3
+gangrenous cholecystitis,3
+calcifications,3
+atherosclerotic calcifications,3
+hepatomegaly,3
+vascular malformation,3
+thyroid carcinoma,3
+mural thrombus,3
+perinephric,3
+renal atrophy,3
+seizures hemiparesis,2
+facet and sacroiliac joint,2
+azotemia,2
+barrett's esophagus,2
+atopic eczema,2
+mycotic,2
+heroin abuse,2
+disk disease,2
+oppositionality,2
+adjustment disorder,2
+premature coronary artery disease,2
+sacroiliac joint syndrome,2
+hypercoagulable,2
+discoid lupus,2
+contagiosum,2
+atopic,2
+eczematous,2
+lacrimal duct stenosis,2
+adenomyosis,2
+angioma,2
+meningiomas,2
+vaginal bleeding,2
+allergic reactions,2
+hearing and vision,2
+vascular blush,2
+vascular diseases,2
+yeast infection,2
+radiculitis,2
+"cardiac, cardiac failure",2
+acanthosis,2
+lumbar scoliosis,2
+chiari malformation,2
+otorrhea,2
+truncal ataxia,2
+eustachian tube dysfunction,2
+hyperglycemia,2
+"bloating, bowel, celiac sprue",2
+limbic encephalitis,2
+sprue,2
+dysarthria,2
+arterial thrombosis,2
+atherosclerotic heart disease,2
+gastric ulcer,2
+encephalitis,2
+lower extremity radiculopathy,2
+mca aneurysm,2
+juvenile myoclonic epilepsy,2
+myoclonic epilepsy,2
+"clonic, juvenile, myoclonus",2
+backache,2
+myoclonic,2
+"facet, sacroiliac joint syndrome",2
+systemic lupus,2
+stomachache,2
+"gastrointestinal, prep",2
+urinary dysuria,2
+venous thromboses,2
+"cerebral, palsy",2
+lumbar degenerative disc disease,2
+proteinuria,2
+congestive cardiac failure,2
+wide-neck,2
+stuffiness,2
+status epilepticus,2
+preeclampsia,2
+"neurologic, abnormalities",2
+polychondritis,2
+chest wall tenderness,2
+hypoglycemic,2
+myocardial ischemia,2
+"artery, blood glucose",2
+carotid bruit,2
+intracranial aneurysm,2
+"nerve, cardiac catherization",2
+wilson's disease,2
+brain malformation,2
+inferior abnormality,2
+"intrauterine, intrauterine gestation",2
+truncal obesity,2
+splinter,2
+reflex sympathetic dystrophy,2
+cavernous angioma,2
+pseudotumor,2
+calculi,2
+intracardiac thrombus,2
+hyperbilirubinemia,2
+eczema,2
+skin lymphoma,2
+angioedema,2
+concentric hypertrophy,2
+"ventricular, esophageal, peak velocity, valve replacement, aortic valve",2
+"lymphoma, cholecystitis",2
+lethargy,2
+dilated common duct,2
+elevated liver function,2
+"kidney, calculi, renal, spleen, pancreas, ultrasound",2
+ill,2
+ischemic heart disease,2
+atrial enlargement,2
+renal artery stenosis,2
+sinus infection,2
+wheezing cough,2
+torticollis,2
+"shortness of breath, sister, wheezing",2
+angina pectoris,2
+"loss of consciousness, soft tissue swelling",2
+hypokinesis,2
+bigeminy,2
+previa,2
+right ovarian cyst,2
+shunt malfunction,2
+chronic alcohol abuse,2
+mets,2
+parkinson disease,2
+muscular atrophy,2
+sinus congestion,2
+purulent rhinitis,2
+"ovary, uterine fibroid",2
+vascular congestion,2
+dysautonomia,2
+pneumothoraces,2
+intermittent fever,2
+malrotation,2
+retinal hemorrhages,2
+bronchioloalveolar carcinoma,2
+traumatic seizures,2
+"vaginal hysterectomy, vaginal hysterectomy",2
+spindle cell carcinoma,2
+vascular injury,2
+"ruptured ectopic pregnancy, gestational sac, ectopic pregnancy",2
+axonal injury,2
+skull fracture,2
+uterus enlargement,2
+osteoarthrosis,2
+parkinsonism,2
+gyriform,2
+ligamentum flavum hypertrophy,2
+acidosis,2
+bundle branch,2
+medullary syndrome,2
+pleural effusions,2
+theta-delta,2
+uveitis,2
+parietal stroke,2
+mental retardation,2
+thoracic kyphosis,2
+intrarenal stones,2
+iritis,2
+aureus cellulitis,2
+apneic,2
+lobulated aneurysm,2
+spinal instability,2
+anterior iritis,2
+obstructive disease,2
+"pituitary, sinus opacity",2
+artery stenosis,2
+blistering,2
+neurogenic bowel and bladder incontinence,2
+neurogenic scoliosis,2
+t-cell lymphoma,2
+cough syrup,2
+interventricular hemorrhage,2
+tonic-clonic,2
+spastic quadriplegia,2
+dementia syndrome,2
+occupational dysfunction,2
+viral syndrome,2
+chronic back pain,2
+alzheimer's disease,2
+enema,2
+left-sided weakness,2
+hypoalbuminemia,2
+"artery, communication artery",2
+thymoma,2
+diabetic nephropathy,2
+leiomyosarcoma,2
+facet joint syndrome,2
+buttock pain,2
+pancytopenia,2
+knee osteoarthrosis,2
+hepatorenal insufficiency,2
+subdural hemorrhage,2
+phonation difficulties,2
+huntington's disease,2
+chorea,2
+suprasellar aneurysm,2
+dyslipidemia,2
+anorexia,2
+acute intracranial abnormalities,2
+myalgias,2
+"cardiac, disease",2
+mullerian adenosarcoma,2
+hypercalcemia,2
+tooth abscess,2
+subdural effusions,2
+myasthenia,2
+contact injury,2
+bunion,2
+neuromuscular disease,2
+pes planovalgus,2
+pes planovalgus deformity,2
+knee injury,2
+aneurysms,2
+phleboliths,2
+knee pain,2
+viral gastroenteritis,2
+artery aneurysms,2
+"pulmonary, chest,",2
+gait instability,2
+palpitation,2
+macrocephaly,2
+hypophonia,2
+bipolar affective disorder,2
+autism,2
+"mental, abuse",2
+renal cyst decortication,2
+brain syndrom,2
+infectious disease,2
+auditory hallucinations,2
+ewing,2
+"bipolar type, mood lability",2
+dandy-walker malformation,2
+pilocytic astrocytoma,2
+hypercapnic respiratory failure,2
+pilocytic,2
+pes anserine,2
+traumatic perforation,2
+schizoaffective disorder,2
+ventriculomegaly,2
+lyme disease,2
+intrasellar mass lesion,2
+willful behavior,2
+"abuse, behavior",2
+migraine headache,2
+pseudoseizures,2
+intraparenchymal hemorrhage,2
+"loss of consciousness, laceration, fall, course in the ed, placed on monitors, fell and struck, abrasions",2
+decorticate posturing,2
+"loss of vision, motor activity",2
+disorientation,2
+organic brain syndrome,2
+hematomas,2
+psychosis,2
+pontine stroke,2
+alzheimer disease,2
+pontine pyramidal tract infarct,2
+abdominal bruit,2
+psychiatric disability,2
+cryptococcus,2
+renal osteodystrophy,2
+basal cell ganglia cerebrovascular,2
+cerebral atrophy,2
+"calcification of basal ganglia, basal ganglia, globus pallidi, basal, ganglia, globus, pallidi, calcification",2
+paraesthesia,2
+deafness,2
+atrophy,2
+hearing impairment,2
+lumbar radiculopathy,2
+leptospirosis,2
+erosions,2
+"septal, ventricular, diastolic, systolic, pulmonary hypertension",2
+blisters,2
+ventricular hypertrophy,2
+thrombi,2
+cataracts,2
+tonic/clonic,2
+intraluminal thrombus,2
+lobar pneumonia,2
+dislocations,2
+joint syndrome,2
+"congenital genitourinary, genitourinary abnormalities",2
+myopia,2
+disorder,2
+retinal degeneration,2
+"sacroiliac, syndrome",2
+stickler syndrome,2
+brugada syndrome,2
+numbness paraesthesia,2
+htn,2
+sneeze,2
+vision loss,2
+babinski,2
+sellar enlargement,2
+tumors,2
+fractures dislocations,2
+overdose,2
+dementing illness,2
+infarct angina,2
+keratotic,2
+asynclitism,2
+urethral hypermobility,2
+charcot-marie-tooth disease,2
+arrest,2
+chest wall lesions,2
+non-small cell carcinoma,2
+voiding dysfunction,2
+breast ptosis,2
+bile peritonitis,2
+lateral epicondylitis,2
+dysplasia of vulva,2
+uterine perforation,2
+menorrhagia,2
+ovarian lesion,2
+endometrial carcinoma,2
+multilobar,2
+biliary dyskinesia,2
+dyskinesia,2
+ruptured appendicitis,2
+compartment osteoarthritis,2
+knee degenerative arthritis,2
+amputation,2
+below-the-knee amputation,2
+knee amputation,2
+preretinal hemorrhage,2
+ischial ulcer,2
+herpes,2
+cephalopelvic disproportion,2
+femur fracture,2
+herpes simplex,2
+"volar flexion crease, pronator quadratus",2
+odontogenic,2
+odontogenic abscess,2
+leukemic meningitis,2
+leukemic,2
+meningitis,2
+infected olecranon,2
+oncocytoma,2
+renal bleed,2
+encrustation,2
+tear duct obstruction,2
+nasolacrimal duct stenosis,2
+unstable angina,2
+ventricular dysfunction,2
+mitral valve repair,2
+sensorineural,2
+rhabdomyosarcoma of the left orbit,2
+rhabdomyosarcoma,2
+cardiac tamponade,2
+brevis muscle,2
+ptotic breasts,2
+breast hypoplasia,2
+breast implant,2
+melasma,2
+isoimmunization,2
+decubitus ulcer,2
+uremia,2
+fracture dislocation,2
+"painful left foot, lesions",2
+granulomatous,2
+bronchomalacia,2
+angiodysplasia,2
+carcinomatosis,2
+parapharyngeal,2
+hemorrhagic lesion,2
+colon diverticulosis,2
+colonoscopeNOTE,2
+"tooth, masticator space",2
+"cyst, bowel, adhesions",2
+low anterior colon resection,2
+acute bowel obstruction,2
+keratotic lesion,2
+keratotic neoplasm,2
+seborrheic keratotic neoplasm,2
+seborrheic,2
+cystitis,2
+hydradenitis,2
+"dyspepsia, hiatal hernia",2
+duodenal erythema,2
+neuromuscular dysphagia,2
+esophageal tumor,2
+varices,2
+peptic ulcer,2
+chronic dyspepsia,2
+pulmonary hypertension,2
+oropharyngeal dysphagia,2
+mandibular atrophy,2
+"gastroesophageal, hiatal, esophageal, hernia",2
+maxillary atrophy,2
+masticatory dysfunction,2
+multilobar pneumonia,2
+scapular pain,2
+"coughing, swallowing",2
+thermachoice,2
+auricular hematoma,2
+traumatic brain injury,2
+colon tumor,2
+"humerus, comminuted fracture",2
+two-vessel coronary artery disease,2
+ventricular arrhythmia,2
+coronary artery syndrome,2
+"artery, stenosis",2
+knee flexion contractures,2
+stenotic lesions,2
+"ventriculogram, lesions",2
+both-bone forearm fracture,2
+granuloma,2
+"pulmonary, breath",2
+barrett esophagus,2
+ulcerations,2
+foot infection,2
+gangrene osteomyelitis,2
+gangrene,2
+mandible fracture,2
+sinus bradycardia,2
+gastroparesis,2
+opacity,2
+pars plana vitrectomy,2
+cystoid,2
+epiretinal,2
+vvir,2
+tachybrady arrhythmias,2
+fluid-air,2
+aqueductal stenosis,2
+triventricular hydrocephalus,2
+cerebral edema,2
+brain injury,2
+"tooth, uterine, uterosacral, laparoscope, electrocautery, hysterectomy, laparoscopic, coagulated, vaginal",2
+adenotonsillar hypertrophy,2
+corneal hemorrhage,2
+hypotony,2
+tubal coagulation,2
+cholesteatoma,2
+tympanosclerosis,2
+"vein, bowel obstruction",2
+hyperpyrexia,2
+corneal hemorrhage hypotony,2
+laryngeal edema,2
+degenerative osteoarthritis,2
+pelvic endometriosis,2
+hypertrophic tonsils,2
+obstructive sleep apnea syndrome,2
+epiretinal membrane,2
+peripheral vascular disease,2
+multinodular thyroid goiter,2
+hallux limitus deformity,2
+kidney stone,2
+"urgency, urgency, frequency, neuromodulator",2
+self-catheterization,2
+"nerve, external oblique, inguinal hernia",2
+right inguinal hernia,2
+"inguinal hernia repair, external oblique, hernia repair",2
+inguinal hernial,2
+torsed,2
+penoscrotal abscess,2
+penoscrotal hypospadias,2
+molluscum contagiosum,2
+bladder infections,2
+atrophic vaginitis,2
+vaginitis,2
+lateral lobe obstruction,2
+bladder tumors,2
+"prostatic, hyperplasia",2
+bladder calculus,2
+impotence,2
+rectal injury,2
+carcinoma of the prostate,2
+meatal stenosis,2
+papillomatosis,2
+bladder lesions,2
+hallux rigidus,2
+veinNOTE,2
+fibrinous,2
+type ii block,2
+congenital bilateral esotropia,2
+rectovaginal fistula,2
+carcinoma of the vulva,2
+pulmonary atresia,2
+pulmonary artery fistula,2
+hypoplastic pulmonary,2
+pulmonary valve stenosis,2
+outflow tract obstruction,2
+cervical adenocarcinoma,2
+prostate adenocarcinoma,2
+bipolar coagulation,2
+peyronie's disease,2
+penile prosthesis,2
+pseudomonas pyelonephritis,2
+"urinary, urinary incontinence",2
+"pleural, effusion",2
+pilon fracture,2
+lens implant,2
+cortical cataract,2
+senile cataract,2
+pain-buster pain,2
+sinus syndrome,2
+episodic palpitations,2
+tachybrady,2
+tachybrady syndrome,2
+"cava, syndrome",2
+esotropia,2
+"squamous cell carcinoma of the scalp, squamous cell carcinoma",2
+thoracoabdominal aneurysm,2
+nocturia,2
+pulmonary decortication,2
+nevus syndrome,2
+"hyperplasia, cystic lesion",2
+vaginal vault prolapse,2
+uterine procidentia,2
+interloop bowel adhesions,2
+gastrocutaneous fistula,2
+tamponade,2
+myalgia,2
+sacro-iliitis,2
+lumbar segmental dysfunction,2
+iliac joints,2
+iliitis,2
+ulcers,2
+depressed,2
+sinus fractures,2
+"lithotripsy, stone",2
+ventricle syndrome,2
+gastrointestinal bleeding,2
+"nerve, undescended testis",2
+penile swelling,2
+hallux abductovalgus deformity,2
+penile cellulitis,2
+uveal prolapse,2
+endstage renal disease,2
+reflux gastritis,2
+"reflux, reflux gastritis",2
+left subclavian vein occlusion,2
+linguistic impairment,2
+ulcerative colitis,2
+chronic laryngitis,2
+laryngitis,2
+strep,2
+seasonal allergies,2
+ileus,2
+pulmonary disorder,2
+tinel,2
+cardiac arrhythmia,2
+asthmatic bronchitis,2
+interstitial disease,2
+lupus pneumonitis,2
+respiratory difficulties,2
+q-fever endocarditis,2
+acute supraglottitis,2
+parapharyngeal cellulitis,2
+peritonsillar cellulitis,2
+supraglottitis,2
+epigastric pain,2
+liver cirrhosis,2
+polycythemia rubra vera,2
+acute asthmatic bronchitis,2
+myelofibrosis,2
+posttransplant lymphoproliferative disorder,2
+insect bite,2
+"linguistic, cognitive, linguistic,",2
+hemisphere disorder,2
+streaks,2
+abdominal abscess,2
+subclavian vein stenosis,2
+subclavian vein occlusion,2
+vein occlusion,2
+nerve lesion,2
+brachiocephalic arteriovenous fistula,2
+chondral injury,2
+glenoid erosion,2
+patellofemoral malalignment syndrome,2
+dislocating,2
+femoroacetabular impingement,2
+suppurative appendicitis,2
+myotonic muscular dystrophy,2
+muscular dystrophy,2
+bladder neck obstruction,2
+"abdominal, small bowel",2
+pulmonary artery,2
+acute coronary syndrome,2
+angiographic stenosis,2
+hypertrophic adenotonsillitis,2
+idiopathic,2
+ankyloglossia,2
+incisional hernia,2
+lymphangiectasia,2
+mesenteric lymphangiectasia,2
+abdominal wall abscess,2
+lymphangitis,2
+maculopapular rash,2
+basal carcinoma,2
+hypothyroid,2
+polyphagia,2
+leucocytosis,2
+clostridium difficile colitis,2
+end-stage liver disease,2
+polycystic kidney disease,2
+chronic kidney disease,2
+cervicalgia,2
+systolic dysfunction,2
+age-related macular degeneration,2
+"breast, cancer",2
+obsessive compulsive disorder,2
+asperger disorder,2
+asperger,2
+bell’s palsy,2
+flutter,2
+hemolysis,2
+chronic lymphocytic leukemia,2
+autoimmune hemolytic anemia,2
+hemolytic,2
+non-epileptic,2
+epileptic,2
+"snoring, behavior difficulty",2
+somnolence,2
+airway resistant syndrome,2
+anasarca,2
+polyuria,2
+’s syndrome,2
+maculopapular,2
+food allergies,2
+78-diopter lens,2
+diastolic dysfunction,2
+peritoneal mesothelioma,2
+pulmonary valve,2
+interstitial pneumonitis,2
+upper respiratory tract infection,2
+tinea pedis wart,2
+"tobacco abuse, blood test, runny nose",2
+wart,2
+human immunodeficiency virus disease,2
+clostridium difficile enteritis,2
+thrush,2
+febrile seizure,2
+paralytic ileus,2
+bursitis,2
+deficit disorder,2
+bodyaches,2
+clubbing,2
+peripheral edema,2
+tobacco abuse,2
+heaviness,2
+tightness,2
+airway disease,2
+rhabdomyolysis,2
+glossitis,2
+reflux,2
+microhematuria,2
+chondrosarcoma,2
+chronic adhesive disease,2
+carious lesions,2
+prolapse,2
+artificial rupture,2
+vaginal lacerations,2
+biceps tenosynovitis,2
+labor pain,2
+heart murmur,2
+bronchiolitis,2
+basilar rales,2
+pulmonary disease,2
+uterine bleeding,2
+infertility,2
+uterus infertility,2
+renal tumor,2
+cystic suprasellar tumor,2
+trigonocephaly,2
+"sinus, orbital roof, orbital rim, bone grafts, forehead, bone, orbital, craniotomy, osteotomies,",2
+intraparenchymal hematoma,2
+myocardial infarctions,2
+syndromic craniosynostosis,2
+postoperative hemorrhage,2
+condyle hypertrophy,2
+cervical carcinoma,2
+heme-positive stools,2
+spastic colon,2
+ruptured ectopic pregnancy,2
+"tooth, carious lesions",2
+sigmoid diverticulosis,2
+traumatic injury,2
+crohn's disease,2
+"varices, esophagus",2
+epididymitis,2
+iron-deficiency,2
+iron-deficiency anemia,2
+"pylori, esophagus, antral,",2
+burns,2
+hyperesthesia,2
+epigastric hernia,2
+iliac artery aneurysm,2
+coffee-ground emesis,2
+"gastrointestinal, esophagus, endoscopy, stomach, duodenitis",2
+"reflux, stricture dilated",2
+solitary erosion,2
+nausea and vomiting,2
+greasy,2
+odynophagia,2
+malnutrition,2
+fundal gastritis,2
+esophageal stricture,2
+"reflux, dysphagia",2
+dog-ear deformity,2
+vestibular stenosis,2
+dupuytren,2
+glossal carcinoma,2
+hematemesis,2
+proctosigmoiditis,2
+"polyp, diverticular disease",2
+chronic obstructive coronary disease,2
+"superficialis, tendons",2
+peribulbar,2
+"transverse wrist crease, superficial, ligament",2
+hamate,2
+"endarterectomy, cerebrovascular accident",2
+"ventricular, stenosis",2
+coronary atherosclerotic heart disease,2
+intimal calcification,2
+subclavian stenosis,2
+vaginal prolapse,2
+"breast, breast assymetry",2
+hodgkin disease,2
+exertional angina,2
+coronary occlusive disease,2
+"pulmonary, copd",2
+abdominal trauma,2
+infraorbital block,2
+brow ptosis,2
+entropion,2
+actinic,2
+adenoid hyperplasia,2
+crowe-davis mouth,2
+asthmatic,2
+"respiratory, breath",2
+submucosal hemorrhage,2
+"irregular bowel, bowel habits",2
+dysphonia,2
+"pleural, chest",2
+serous,2
+adenomas,2
+colonic polyps,2
+colon polyp,2
+crohn disease,2
+"colon, bowel disease",2
+"colon, hepatic flexure, inflammatory disease",2
+irritable bowel syndrome,2
+"colon, splenic flexure, transverse colon",2
+bowel disease,2
+perianal abscess,2
+diverticular disease,2
+ascending colon,2
+bloating,2
+"colon, hemorrhoids",2
+"colon, external hemorrhoids",2
+"colon, splenic flexure, transverse colon, hepatic flexure, ascending colon, ileocecal valve, ileocecal, mucosa, rectum",2
+respiratory arrest,2
+"bicuspid aortic valve, patent foramen ovale",2
+"aortic, foramen",2
+supracondylar fracture,2
+"cleft, cleft lip",2
+trimalleolar ankle fracture,2
+st-elevation,2
+parapneumonic,2
+nonbilious emesis,1
+"cardiovascular, dermatologic, external genitalia, integumentary, joint exam, lymphadenopathy",1
+dilated cardiomyopathy,1
+intracerebral hemorrhage,1
+osteogenic sarcoma,1
+intracranial bleeding,1
+"renal, disease",1
+bacterial infection,1
+cardiac arrest,1
+"parathyroid hyperplasia, parathyroid exploration, pth, hyperplasia",1
+extraocular movements,1
+paresis,1
+acute supraglottic edema,1
+decreased appetite,1
+polycystic ovarian syndrome,1
+hypertensive,1
+chronic pain,1
+vasovagal syncope,1
+non-small-cell carcinoma,1
+vasovagal,1
+obstructive lung disease,1
+lung disease,1
+bigemini,1
+atrial ventricular block,1
+indigestion,1
+cranial defect,1
+bone pain,1
+venous thrombus,1
+necrotizing infection,1
+necrotizing,1
+polytrauma,1
+coronal synostosis,1
+"coarctation, juxtaductal, dilated cardiomyopathy",1
+verrucous squamous cell carcinoma,1
+inguinal hernias,1
+hernias,1
+sexual dysfunction,1
+parathyroid hyperplasia,1
+multiple bowel perforations,1
+alzheimer’s dementia,1
+b12 deficiency,1
+bone disease,1
+sleep difficulties,1
+sleepiness,1
+arousals,1
+hypopneas,1
+cpap,1
+pannus,1
+"head, burn eschar",1
+chronic hydradenitis,1
+carcinoma of the bladder,1
+intrarenal stone,1
+"sebaceous cyst, sebaceous cyst, cyst, eyebrow, sebaceous",1
+infected sebaceous cyst,1
+decubitus,1
+acute lymphocytic leukemia,1
+ovarian cancer,1
+breast carcinoma,1
+anal cancer,1
+"carcinoma, bowel obstruction",1
+feeding disorder,1
+cardiac murmur,1
+ductal carcinoma,1
+fatty tissue,1
+"cystic, duct",1
+"femoral, external iliac artery stenosis",1
+"impaired renal function, common iliac artery, iliac artery catheter, external iliac artery, iliac artery",1
+renovascular hypertension,1
+pyogenic,1
+swollen joints,1
+phlegmonous,1
+ecchymosis,1
+breathing cough,1
+achilles ruptured tendon,1
+achilles ruptured,1
+retrobulbar block,1
+synostosis,1
+grimacing,1
+philadelphia,1
+colon obstruction,1
+appetite,1
+"carcinoma of the cervix, code status, length of the encounter, mmtp program, normal affect, shortness of breath",1
+irritable obstruction,1
+kaposi's sarcoma,1
+cryptococcal infection,1
+breast reduction,1
+"respiratory, gastrointestinal, integumentary, hematopoietic, night sweats",1
+jugular venous distention,1
+"pulmonary, auditory acuity",1
+"cardiovascular, dermatologic, endocrine, female review of systems, musculoskeletal, neurologic, psychiatric",1
+nocturnal dyspnea,1
+"vomiting, weakness",1
+humerus fracture,1
+hand pain,1
+painful right knee,1
+skin infection,1
+hepatocellular carcinoma,1
+sinus,1
+bipolar spectrum disorder,1
+posttraumatic stress disorder,1
+personality disorder,1
+posttraumatic stress,1
+suicide ideation,1
+trichophyton,1
+myofascial spasm,1
+intravascular,1
+spasm,1
+neurapraxia,1
+neuralgia,1
+sciatica,1
+lumbosacral facet arthropathy,1
+facet arthropathy,1
+arthropathy,1
+hiatus,1
+arrhythmias,1
