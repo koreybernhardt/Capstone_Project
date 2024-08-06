@@ -6,8 +6,8 @@ This project was an exploratory case study that took an in-depth look at using n
 
 * **A Case Study of Natural Language Processing_DS785_KBernhardt.docx**: The final research paper that includes a lit review, methodology, and results. 
 * **DS785_Final_code.ipynb**: The jupyter notebook containing all code supporting the research paper. It contains results from running the notebook, which can be run using run all cells 
-* **mtsamples.csv**: Contains clinical notes data and is the primary data source for the research paper. It was sources from Kaggle (and listed as a reference in the paper)
-* **disease_aggregation.csv**: Mapping of specific diseases to one of five high mortality diseases. The compilation of this document is outlined in the paper in the Disease Labelling seciton.
+* **mtsamples.csv**: Contains clinical notes data and is the primary data source for the research paper. It was sourced from Kaggle and listed as a reference in the paper.
+* **disease_aggregation.csv**: Mapping of specific diseases to one of five high mortality diseases. The compilation of this file is outlined in the paper in the Disease Labelling seciton.
 * **disease_counts.csv**: All diseases assigned to transcriptions with count of transcriptions.
 
 
